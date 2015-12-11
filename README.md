@@ -20,6 +20,11 @@ loklak.hello(function (data) {
   console.log(data);
 });
 ```
+### Geocode
+```
+loklak.geocode(['Votkinsk'], function (data) { console.log(data); })
+```
+
 ## Contact
 Send me a message in Telegram: [@sevazhidkov](https://telegram.me/sevazhidkov).
 
