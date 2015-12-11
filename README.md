@@ -34,6 +34,10 @@ loklak.geocode(['Votkinsk'], function (data) { console.log(data); })
 ```
 loklak.user({name: 'sevazhidkov', followers: 20, following: 20}, function (data) { console.log(data); })
 ```
+### Search
+```
+loklak.search({q: 'Code-in'}, function (data) { console.log(data); })
+```
 
 ## Contact
 Send me a message in Telegram: [@sevazhidkov](https://telegram.me/sevazhidkov).
