@@ -14,6 +14,12 @@ loklak.status(function (data) {
   console.log(data);
 });
 ```
+### Hello
+```
+loklak.hello(function (data) {
+  console.log(data);
+});
+```
 ## Contact
 Send me a message in Telegram: [@sevazhidkov](https://telegram.me/sevazhidkov).
 
