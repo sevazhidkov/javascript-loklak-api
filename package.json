@@ -1,0 +1,28 @@
+{
+  "name": "loklak",
+  "version": "1.0.0",
+  "description": "Node.js wrapper for loklak.org API - distributed tweet search server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sevazhidkov/javascript-loklak-api.git"
+  },
+  "keywords": [
+    "loklak",
+    "tweets",
+    "search",
+    "wrapper"
+  ],
+  "author": "Seva Zhidkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sevazhidkov/javascript-loklak-api/issues"
+  },
+  "homepage": "https://github.com/sevazhidkov/javascript-loklak-api",
+  "dependencies": {
+    "request-json": "^0.5.3"
+  }
+}
