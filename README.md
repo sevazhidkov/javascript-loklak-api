@@ -20,6 +20,12 @@ loklak.hello(function (data) {
   console.log(data);
 });
 ```
+### Peers
+```
+loklak.peers(function (data) {
+  console.log(data);
+});
+```
 ### Geocode
 ```
 loklak.geocode(['Votkinsk'], function (data) { console.log(data); })
